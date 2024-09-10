@@ -5,12 +5,6 @@
 
 This project explores the creation of a specialized ecosystem adapted for potato fields using Internet of Things (IoT) technology. It focuses on establishing a reliable connection between various sensors and microcontrollers, understanding pin configurations, and programming the ESP32 board to act as a data relay from the XIAO board to the IoT cloud. The system monitors key environmental parameters crucial for optimal potato production, providing valuable insights for enhancing agricultural productivity.
 
-## Group Members
-- **Badaseshi Rishab Ajeyakumar**: Responsible for the DHT sensor and programming three distinct nodes.
-- **Hariharan Ashok**: Tasked with the implementation of the TSL2591 light sensor along with the integration of the UM Feather S3 microcontroller.
-- **Bian Qian**: Handled the integration of the air quality sensor.
-- **Cao Zhuohao**: Focused on the soil moisture sensor.
-
 ## Abstract
 
 In the emerging environment of IoT and agricultural integration, this project explores the creation of a specialized ecosystem adapted for potato fields. We focus on connecting sensors and microcontrollers, understanding pin configurations, and programming the ESP32 board to relay data from the XIAO board to the IoT cloud. The network of sensors, including air quality, DHT, soil moisture, and light sensors, monitors key environmental parameters crucial for optimal potato production. The project aims to integrate cutting-edge IoT technology with agricultural practices to improve productivity and sustainability in the agricultural sector.
